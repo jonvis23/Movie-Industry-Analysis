@@ -11,7 +11,7 @@ This project involves analysis of movie data to determine which factors contribu
 
 ## The Data
 
-The data used for this project was compiled by Flatiron School, and it was pulled from the sources listed below. All tables were cleaned but not all were used in final analysis.
+The data used for this project was pulled from the sources listed below. All tables were cleaned but not all were used in final analysis.
 
 * Box Office Mojo: https://www.boxofficemojo.com
 * IMDB: https://www.imdb.com/interfaces/
