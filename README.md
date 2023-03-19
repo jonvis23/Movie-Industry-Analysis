@@ -4,7 +4,6 @@
 # Movie Industry: Exploratory Data Analysis
 Exploratory data analysis in Python, primarily utilizing the Pandas, Matplotlib, and Seaborn libraries
 
-![Header Image](Images/jake-hills-23LET4Hxj_U-unsplash.jpg)
 
 ## Project Description
 
